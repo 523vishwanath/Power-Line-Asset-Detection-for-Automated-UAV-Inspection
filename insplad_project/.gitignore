@@ -1,0 +1,18 @@
+# Datasets (large, download separately)
+InsPLAD-det-raw/
+InsPLAD-det-coco/
+*.zip
+
+# Training outputs / checkpoints
+runs/
+outputs/
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
