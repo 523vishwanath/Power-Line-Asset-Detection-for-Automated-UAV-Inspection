@@ -28,6 +28,7 @@
   <img src="insplad_project/assets/pred_sample_1.png" width="32%" />
   <img src="insplad_project/assets/pred_sample_2.png" width="32%" />
   <img src="insplad_project/assets/pred_sample_3.png" width="32%" />
+  <img src="insplad_project/assets/pred_sample_4.png" width="32%" />
 </p>
 <p align="center"><i>RF-DETR detections — powerline components localized and classified</i></p>
 
