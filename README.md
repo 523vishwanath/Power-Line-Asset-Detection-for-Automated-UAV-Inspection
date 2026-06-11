@@ -22,15 +22,15 @@
   <img src="insplad_project/assets/raw_sample_2.png" width="32%" />
   <img src="insplad_project/assets/raw_sample_3.png" width="32%" />
 </p>
-<p align="center"><i>Raw UAV inspection imagery — input frames</i></p>
+<p align="center"><i>**Raw UAV inspection imagery — input frames**</i></p>
 
 <p align="center">
   <img src="insplad_project/assets/pred_sample_1.png" width="32%" />
   <img src="insplad_project/assets/pred_sample_2.png" width="32%" />
   <img src="insplad_project/assets/pred_sample_3.png" width="32%" />
-  <img src="insplad_project/assets/pred_sample_4.png" width="32%" />
+  
 </p>
-<p align="center"><i>RF-DETR detections — powerline components localized and classified</i></p>
+<p align="center"><i>**RF-DETR detections — powerline components localized and classified**</i></p>
 
 ---
 ---
